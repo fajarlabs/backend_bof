@@ -1,0 +1,7 @@
+{
+    "name": "xmlglobalstar/htdocs",
+    "description": "XML Rest Service GlobalStar",
+    "require": {
+        "ramsey/uuid": "^3.9"
+    }
+}
